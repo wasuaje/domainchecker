@@ -25,15 +25,16 @@ Uso:
 ----
 
 ::
+
  ./check_ready.py
  usage: check_ready.py [-h] [-f] [-d]
 
  Lista dominios con DNS google y local
 
  optional arguments:
-   -h, --help  show this help message and exit
-   -f, --full  Lista completa de dominios señalando diferencias
-   -d, --diff  Lista solo los dominios con diferencias
+ -h, --help  show this help message and exit
+ -f, --full  Lista completa de dominios señalando diferencias
+ -d, --diff  Lista solo los dominios con diferencias
 
 
 
